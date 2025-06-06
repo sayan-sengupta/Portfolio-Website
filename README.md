@@ -54,3 +54,40 @@ npm install
 
 # Start the dev server
 npm run dev
+```
+
+---
+
+## 🖼️ Screenshots
+
+| Hero Section | Projects Grid |
+|--------------|---------------|
+| ![Hero](https://github.com/yourusername/your-repo-name/assets/hero.png) | ![Projects](https://github.com/yourusername/your-repo-name/assets/projects.png) |
+
+> Replace these URLs with your actual images or GIFs hosted on GitHub or an image CDN like Cloudinary.
+
+---
+
+## 🧑‍💻 Author
+
+**Sayan Sengupta**  
+Frontend Developer | UI/UX Designer  
+[Portfolio Website](https://sayan-portfolio.vercel.app) | [GitHub](https://github.com/sayan-sengupta) | [LinkedIn](https://linkedin.com/in/sayan-sengupta)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 🪄 Want to use this portfolio?
+
+Feel free to fork, clone, and customize it to create your own!
+
+---
+
+## ⭐️ Show your support
+
+If you like this project, please give it a ⭐️ on GitHub — it helps a lot!
